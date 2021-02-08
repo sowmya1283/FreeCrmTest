@@ -6,4 +6,6 @@ public class ContactsPageTest {
 		super();
 	}
 	//hello
+	//new branch
+	// is it added
 }
