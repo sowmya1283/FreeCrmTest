@@ -8,4 +8,5 @@ public class ContactsPageTest {
 	//hello
 	//new branch
 	// is it added
+	//checking merging
 }
